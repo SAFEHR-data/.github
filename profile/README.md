@@ -1,10 +1,10 @@
-# Welcome to UCLH Foundry
+# Welcome to SAFEHR-data
 
 FlowEHR is an open-source platform for iterative, safe & reproducible development & deployment of data science solutions inside the NHS.
 
 FlowEHR enables multidisciplinary teams to work higher up the stack and focus on improving patient outcomes & health system efficiency.
 
-UCLH Foundry is the GitHub organisation under which the FlowEHR open-source platform lives. The following is a guide to some of the more important repositories you'll find here...
+SAFEHR-data is the GitHub organisation under which the FlowEHR open-source platform lives. The following is a guide to some of the more important repositories you'll find here...
 
 ## Core FlowEHR
 
